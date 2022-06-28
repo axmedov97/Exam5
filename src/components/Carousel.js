@@ -53,7 +53,7 @@ const App = () => {
 
             <div className="swiffy-slider slider-item-reveal slider-nav-round slider-item-ratio slider-item-ratio-21x9 my-5" id="slider1">
                 <ul className="slider-container">
-                    {/* {
+                    {
                         (data1.length>0) && data1.map((box ,index)=>{
                             return(
                                 <li key={index}>
@@ -61,7 +61,7 @@ const App = () => {
                                 </li>
                             )
                         })
-                    } */}
+                    }
                     <li>
                         <img src="https://foto.carexpert.ru/img/foto1680/lamb/lambav029.jpg" alt="" />
                     </li>
